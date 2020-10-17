@@ -38,7 +38,7 @@ tupo text daffafasfdasfasfasfkkskdfksakfsdaks'flfkalskfksfk fdofkokkfokdkfl klkf
 
  https://vk.com/huunhuurtu 
  
-My yupiter notebook is here [code]  
+My yupiter notebook is here [here]()  
  
 column1 | column2 | column3
 :---- | ----: | :----:
