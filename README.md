@@ -111,7 +111,12 @@ Cуммарная аудитория двух групп представлен�
 
 
 
-My yupiter notebook (коды по группе "Хуун-Хуур-Ту") is here [here](Huun.ipynb)  
+My yupiter notebook (коды по группе "Хуун-Хуур-Ту") is here [here](Huun.ipynb)
+My yupiter notebook (коды по группе "Ored recordings") is here [here](Ored_Recordings.ipynb)
+My yupiter notebook (коды по двум группам вместе) is here [here](complex.ipynb)
+
+
+
 
 ### subtitle
 
